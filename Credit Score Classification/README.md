@@ -6,4 +6,4 @@ This model serves as a credit scoring system designed to categorize individuals 
 
 To enhance its effectiveness, consider incorporating additional features and exploring various algorithms.
 I trust you will find this resource valuable and informative.
-Enjoy Machine Learning!!
+Enjoy Machine Learning!
