@@ -14,3 +14,16 @@ Enjoy Machine Learning!!
 
 1st:-
 ![First Output](<First Output.gif>)
+
+
+2nd:-
+![Second Output](Second.gif)
+
+3rd:-
+![Third Output](Third.gif)
+
+4th:-
+![Fourth Output](Fourth.gif)
+
+5th:-
+![Fifth Output](Fifth.gif)
